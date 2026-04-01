@@ -103,6 +103,14 @@ export default function Portfolio() {
         <div className="space-y-6">
           {[
             {
+              role: "Career Break",
+              company: "Bengaluru, Karnataka",
+              date: "Nov 2025 – Mar 2026",
+              points: [
+                "Relocated to Bengaluru due to personal commitments, available for immediate joining in Credit Risk, Fraud Analysis,  Underwriting roles.",
+              ],
+            },
+            {
               role: "Senior Credit Officer",
               company: "Ratnaafin Capital Pvt Ltd",
               date: "Jan 2024 – Nov 2025",
