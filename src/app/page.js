@@ -107,7 +107,8 @@ export default function Portfolio() {
               company: "Bengaluru, Karnataka",
               date: "Nov 2025 – Mar 2026",
               points: [
-                "Relocated to Bengaluru due to personal commitments, available for immediate joining in Credit Risk, Fraud Analysis,  Underwriting roles.",
+                "Relocated to Bengaluru due to personal commitments.",
+                "Available for immediate joining in Credit Risk, Fraud Analysis,  Underwriting roles.",
               ],
             },
             {
@@ -138,6 +139,15 @@ export default function Portfolio() {
                 "Evaluated gold assets for loan eligibility",
                 "Managed risk exposure and loan records",
                 "Ensured compliance with lending policies",
+              ],
+            },
+            {
+              role: "Business Analyst",
+              company: "Reddito Capital Investment Advisors Pvt Ltd",
+              date: "Oct 2020 -- July 2021",
+              points: [
+                "Managed investment clients with a focus on Futures & Options trading.",
+                "Providing real-time trade recommendations based on daily live market analysis.",
               ],
             },
           ].map((job, i) => (
